@@ -1,6 +1,15 @@
-### Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/16170341" alt='Cylerian Logo' width="48">
+
+### Eric Cornelius - CTO @ [Cylerian](https://cylerian.com)
 
 <!--
+
+| test | test 2 |
+|------|--------|
+| 1    | 2      |
+| 2    | 3      |
+
+
 **EricMCornelius/ericmcornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
