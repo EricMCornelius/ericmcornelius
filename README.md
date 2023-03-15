@@ -25,7 +25,7 @@
 
 I'm the Chief Technical Officer at <a href='https://github.com/cylerian'>Cylerian</a>.
 
-In this capacity, I have had an opportunity to engineer a complete Platform as a Service solution for tackling pressing IT and Security needs. We offer a comprehensive SaaS product for monitoring, remote access, automation, orchestration, and data visualization - and we're *growing*.
+In this capacity, I have had an opportunity to engineer a complete Platform as a Service solution for tackling pressing IT and Security needs. We offer a comprehensive SaaS product for monitoring, remote access, automation, orchestration, and data visualization - and we're currently <a href='mailto:eric.cornelius@cylerian.com?subject=Hiring inquiry&body=<Resume Link>' target="_blank">hiring</a> so if you are a passionate developer who wants to work in an early stage startup drop us a line.
 
 Outside of work, I spend a lot of time romping around the Eastern Sierra in California, the place I call home.
 
